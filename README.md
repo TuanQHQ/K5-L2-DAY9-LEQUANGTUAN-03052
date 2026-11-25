@@ -2,7 +2,7 @@
   <img src="docs/assets/hero.png" alt="Day 09 Lab: pipeline kiểm nhãn tự động" width="100%">
 </p>
 
-# Day 09 Lab — Pham Vo Quang Hung: 2A202603259 - Pham Vo Quang Hung
+# Day 09 Lab — Le Quang Tuan: 2A202603052 - Le Quang Tuan
 
 <p align="center">
   <img alt="cá nhân" src="https://img.shields.io/badge/lab-cá%20nhân-0b1f3a">
